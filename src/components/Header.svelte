@@ -1,10 +1,10 @@
-<div class="Header">Mini Models</div>
+<div class="Header">Bre's Puzzles</div>
 
 <style>
 	.Header {
-		color: greenyellow;
+		color: white;
 		font-weight: bold;
-		background-color: blue;
+		background-color: lightcoral;
 		padding: 10px;
 		font-size: 20px;
 	}
